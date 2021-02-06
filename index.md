@@ -1,17 +1,17 @@
-### About Me
+## About Me
 
 Hey there, my name is Tali Israeli and I am a sonior software engineer at Tigerconnect. In my free time, I like to love to spend time with my family, read, try new food, hike, travel, and cook.
 
 
-## About This Site
+### About This Site
 
 This site is built using Jekyll and Poole’s Hyde theme. It is developed on GitHub using GitHub Pages.
 
-### Resume
+## Resume
 
-## Experience
+### Experience
 
-# TigerConnect | Santa Monica, CA, USA | Dec 2016 – Today
+**TigerConnect | Santa Monica, CA, USA | Dec 2016 – Today**
 
 **Senior Web Software Engineer** | Jan 2020 – Today
 - Build new cross-platform components and refactored codebase using Typescript and React Hooks
@@ -24,7 +24,7 @@ This site is built using Jekyll and Poole’s Hyde theme. It is developed on Git
 - Assisted in re-writing SDK to improve application performance
 - Lead team estimation meetings using agile methodologies
 
-# KENSHOO LTD | Tel Aviv, Israel | May 2013 – Jul 2016
+**KENSHOO LTD | Tel Aviv, Israel | May 2013 – Jul 2016**
 
 **Technical Account Manager, Social** | Dec 2015 – Jul 2016
 - Lead scoping discussion with clients during sales process & client onboarding. Responsible to approve and understand clients’ technical requirements
@@ -41,7 +41,7 @@ This site is built using Jekyll and Poole’s Hyde theme. It is developed on Git
 - Expertly supervised large number of Linux servers, both physical and virtual, hosted in remote data centers.
 - Propelled and organized “war rooms” and solved problems in real time by bringing meaningful inputs and collaborating with different teams in the company.
 
-# ISRAELI DEFENSE FORCE | Givatayim, Israel | 2007 – 2009
+**ISRAELI DEFENSE FORCE | Givatayim, Israel | 2007 – 2009**
 
 **Chemical R&D Technician**
 - Directed and streamlined micro optical-mechanical systems and sensors development, with an emphasis on materials application and process development.
@@ -49,7 +49,7 @@ This site is built using Jekyll and Poole’s Hyde theme. It is developed on Git
 
 
 
-## Education
+### Education
 
 **Bachelor of Science in Industrial Engineering** | Ben Gurion University of the Negev | Beer Sheva, Israel | 2014
 - Specialty in Informational Technology
