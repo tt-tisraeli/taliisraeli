@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+### About Me
 
-You can use the [editor on GitHub](https://github.com/TaliIsraeli88/taliisraeli/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hey there, my name is Tali Israeli and I am a sonior software engineer at Tigerconnect. In my free time, I like to love to spend time with my family, read, try new food, hike, travel, and cook.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## About This Site
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This site is built using Jekyll and Poole’s Hyde theme. It is developed on GitHub using GitHub Pages.
 
-```markdown
-Syntax highlighted code block
+### Resume
 
-# Header 1
-## Header 2
-### Header 3
+## Experience
 
-- Bulleted
-- List
+# TigerConnect | Santa Monica, CA, USA | Dec 2016 – Today
 
-1. Numbered
-2. List
+**Senior Web Software Engineer** | Jan 2020 – Today
+- Build new cross-platform components and refactored codebase using Typescript and React Hooks
+- Led several projects: worked with the product team to be able to break down projects, create tickets, and ensure they were completed within the time limits
+- Helped team create several new features including in-app patient messaging and video calling using Twilio APIs
 
-**Bold** and _Italic_ and `Code` text
+**Web Software Engineer** | Dec 2016 – Jan 2020
+- Building new messenger app, delivering features to close the gap with the existing site. Improved page load performance. Develop new components and applications based on React, Redux, and MobX
+- Maintaining existing code built-in KnockoutJS on the frontend and NodeJS/Express on the backend
+- Assisted in re-writing SDK to improve application performance
+- Lead team estimation meetings using agile methodologies
 
-[Link](url) and ![Image](src)
-```
+# KENSHOO LTD | Tel Aviv, Israel | May 2013 – Jul 2016
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Technical Account Manager, Social** | Dec 2015 – Jul 2016
+- Lead scoping discussion with clients during sales process & client onboarding. Responsible to approve and understand clients’ technical requirements
+- Worked closely with the product in rolling out complex functionalities and communicate both internally and externally as the expert on new features.
+- Established ad hoc solutions regularly to addressed product requirements. Efficient knowledge and trained in conversion custom URL builder, parsers, pixels, call tracking, cross-channel and cross device attribution.
 
-### Jekyll Themes
+**Full Stack Developer** | May 2014 – Dec 2015
+- Created web applications and services, client and server side including dashboards and visualizations, based on: AngularJS, jQuery, CSS3, HTML5, PHP, MySQL, Redis and AJAX. 
+- Involved in application designing including analyzing various frameworks and tools, component approaches and use cases.
+- Actively designed, developed and integrated the monitoring tools, notification and alerting systems.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TaliIsraeli88/taliisraeli/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+**NOC Engineer** | May 2013 – May 2014
+- Expertly supervised large number of Linux servers, both physical and virtual, hosted in remote data centers.
+- Propelled and organized “war rooms” and solved problems in real time by bringing meaningful inputs and collaborating with different teams in the company.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# ISRAELI DEFENSE FORCE | Givatayim, Israel | 2007 – 2009
+
+**Chemical R&D Technician**
+- Directed and streamlined micro optical-mechanical systems and sensors development, with an emphasis on materials application and process development.
+- Collaborated with mechanical, electronic and reliability teams for process, product alignment and integration.
+
+
+
+## Education
+
+**Bachelor of Science in Industrial Engineering** | Ben Gurion University of the Negev | Beer Sheva, Israel | 2014
+- Specialty in Informational Technology
