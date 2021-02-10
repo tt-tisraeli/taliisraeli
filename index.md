@@ -11,7 +11,7 @@ This site is built using [Jekyll](https://jekyllrb.com/). It is developed on [Gi
 
 ### Experience
 
-**TigerConnect | Santa Monica, CA, USA | Dec 2016 – Today**
+**TigerConnect** Santa Monica, CA, USA |  Dec 2016 – Today
 
 **Senior Web Software Engineer** | Jan 2020 – Today
 - Build new cross-platform components and refactored codebase using Typescript and React Hooks
@@ -24,15 +24,10 @@ This site is built using [Jekyll](https://jekyllrb.com/). It is developed on [Gi
 - Assisted in re-writing SDK to improve application performance
 - Lead team estimation meetings using agile methodologies
 
-**KENSHOO LTD | Tel Aviv, Israel | May 2013 – Jul 2016**
+**KENSHOO LTD** Tel Aviv, Israel | May 2013 – Jul 2016
 
-**Technical Account Manager, Social** | Dec 2015 – Jul 2016
-- Lead scoping discussion with clients during sales process & client onboarding. Responsible to approve and understand clients’ technical requirements
-- Worked closely with the product in rolling out complex functionalities and communicate both internally and externally as the expert on new features.
-- Established ad hoc solutions regularly to addressed product requirements. Efficient knowledge and trained in conversion custom URL builder, parsers, pixels, call tracking, cross-channel and cross device attribution.
-
-**Full Stack Developer** | May 2014 – Dec 2015
-- Created web applications and services, client and server side including dashboards and visualizations, based on: AngularJS, jQuery, CSS3, HTML5, PHP, MySQL, Redis and AJAX. 
+**Full Stack Developer** | May 2014 – Jul 2016
+- Created web applications and services, client and server side including dashboards and visualizations, based on: AngularJS, jQuery, CSS3, HTML5, PHP, MySQL, Redis and AJAX.
 - Involved in application designing including analyzing various frameworks and tools, component approaches and use cases.
 - Actively designed, developed and integrated the monitoring tools, notification and alerting systems.
 
