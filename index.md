@@ -5,7 +5,7 @@ Hey there, my name is Tali Israeli and I am a sonior software engineer at Tigerc
 
 ### About This Site
 
-This site is built using [Jekyll](https://jekyllrb.com/). It is developed on [GitHub](https://pages.github.com/) using GitHub Pages.
+This site is built [GitHub](https://pages.github.com/) using GitHub Pages.
 
 ## Resume
 
